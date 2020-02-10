@@ -12,7 +12,7 @@ public class Skaicsuma {
 			 n = scanner.nextInt();
 			 int sum = 0;
 			for (int i = 1; i < n; i++) {
-				System.out.print(i + "+");
+				System.out.print(i + "+"); //aassas
 				sum += i;
 			}
 			sum += n;
