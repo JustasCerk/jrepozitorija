@@ -18,7 +18,7 @@ public class Skaicsuma {
 			sum += n;
 			System.out.print(n + "=" + sum);
 		} else {
-			System.out.println("Netinkamas ivedimas");
+			System.out.print("Netinkamas ivedimascccc");
 		}
 	}
 }
