@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Skaicsuma {
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in); //12345
+		Scanner scanner = new Scanner(System.in); //12345444444
 		System.out.print("Iveskite skaiciu: ");
 		int n;
 		if ( scanner.hasNextInt()) {
